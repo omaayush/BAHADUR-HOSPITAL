@@ -5,4 +5,5 @@ Double click on BAHADUR_HOSPITAL.jar file to load the Project.
 If you want to login 
 USERNAME - bahadur
 PASSWORD - aayush
-You can mail me @ aayushvarshney1998@gmail.com to know the code.
+
+To know the code contact me @ aayushvarshney1998@gmail.com.
